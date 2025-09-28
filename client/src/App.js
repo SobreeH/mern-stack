@@ -1,9 +1,10 @@
 import "./App.css";
+import User from "./getuser/User";
 
 function App() {
   return (
     <div className="App">
-      <h1>This is react</h1>
+      <User />
     </div>
   );
 }
