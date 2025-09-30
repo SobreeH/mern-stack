@@ -76,3 +76,4 @@ Font awesome
 axios
 cors
 react-router-dom
+react-hot-toast
